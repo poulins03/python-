@@ -1,0 +1,100 @@
+Order_ID,Date,Region,Product,Category,Quantity,Price,Cost
+1001,01-01-2026,South,Laptop,Electronics,5,750,748
+1002,02-01-2026,North,Phone,Electronics,10,500,498
+1003,03-01-2026,East,Tablet,Electronics,7,320,318
+1004,04-01-2026,West,Chair,Furniture,12,85,83
+1005,05-01-2026,South,Desk,Furniture,4,150,148
+1006,06-01-2026,North,Pen,Stationery,50,2,1
+1007,07-01-2026,East,Notebook,Stationery,30,5,3
+1008,08-01-2026,West,Monitor,Electronics,6,220,218
+1009,09-01-2026,South,Keyboard,Electronics,15,35,33
+1010,10-01-2026,North,Mouse,Electronics,20,18,16
+1011,11-01-2026,East,Printer,Electronics,3,180,178
+1012,12-01-2026,West,Sofa,Furniture,2,600,598
+1013,13-01-2026,South,Bed,Furniture,1,850,848
+1014,14-01-2026,North,Pillow,Furniture,25,20,18
+1015,15-01-2026,East,Cup,Kitchen,40,6,4
+1016,16-01-2026,West,Plate,Kitchen,35,8,6
+1017,17-01-2026,South,Spoon,Kitchen,60,3,1
+1018,18-01-2026,North,Bottle,Kitchen,22,12,10
+1019,19-01-2026,East,Fan,Appliances,8,75,73
+1020,20-01-2026,West,AC,Appliances,2,450,448
+1021,21-01-2026,South,Fridge,Appliances,1,900,898
+1022,22-01-2026,North,TV,Electronics,4,650,648
+1023,23-01-2026,East,Camera,Electronics,3,550,548
+1024,24-01-2026,West,Speaker,Electronics,10,120,118
+1025,25-01-2026,South,Watch,Accessories,14,90,88
+1026,26-01-2026,North,Bag,Accessories,11,45,43
+1027,27-01-2026,East,Shoes,Fashion,18,70,68
+1028,28-01-2026,West,Shirt,Fashion,25,30,28
+1029,29-01-2026,South,Jeans,Fashion,20,50,48
+1030,30-01-2026,North,Jacket,Fashion,9,95,93
+1031,31-01-2026,East,Lamp,Furniture,13,40,38
+1032,01-02-2026,West,Carpet,Furniture,5,110,108
+1033,02-02-2026,South,Router,Electronics,7,60,58
+1034,03-02-2026,North,Hard Drive,Electronics,12,80,78
+1035,04-02-2026,East,SSD,Electronics,9,100,98
+1036,05-02-2026,West,RAM,Electronics,16,65,63
+1037,06-02-2026,South,GPU,Electronics,2,700,698
+1038,07-02-2026,North,CPU,Electronics,4,350,348
+1039,08-02-2026,East,Blender,Appliances,6,55,53
+1040,09-02-2026,West,Microwave,Appliances,3,200,198
+1041,10-02-2026,South,Toaster,Appliances,7,35,33
+1042,11-02-2026,North,Kettle,Appliances,10,28,26
+1043,12-02-2026,East,Book,Education,40,15,13
+1044,13-02-2026,West,Calculator,Education,18,25,23
+1045,14-02-2026,South,Backpack,Accessories,14,38,36
+1046,15-02-2026,North,Wallet,Accessories,17,22,20
+1047,16-02-2026,East,Sunglasses,Accessories,12,55,53
+1048,17-02-2026,West,Ring,Jewelry,5,250,248
+1049,18-02-2026,South,Necklace,Jewelry,4,320,318
+1050,19-02-2026,North,Bracelet,Jewelry,8,140,138
+1051,20-02-2026,East,Book,Education,40,15,13
+1052,21-02-2026,West,Calculator,Education,18,25,23
+1053,22-02-2026,South,Backpack,Accessories,14,38,36
+1054,23-02-2026,North,Iron,Appliances,8,50,48
+1055,24-02-2026,East,Hair Dryer,Appliances,7,45,43
+1056,25-02-2026,West,Gaming Console,Electronics,2,500,498
+1057,26-02-2026,South,Controller,Electronics,9,60,58
+1058,27-02-2026,North,VR Headset,Electronics,1,750,748
+1059,28-02-2026,East,Action Camera,Electronics,3,300,298
+1060,01-03-2026,West,Projector,Electronics,2,420,418
+1061,02-03-2026,South,Brush,Hardware,15,10,8
+1062,03-03-2026,North,Tiles,Hardware,40,3,1
+1063,04-03-2026,East,Cement,Hardware,25,9,7
+1064,05-03-2026,West,Wire,Hardware,30,12,10
+1065,06-03-2026,South,Charger,Electronics,18,20,18
+1066,07-03-2026,North,Power Bank,Electronics,9,45,43
+1067,08-03-2026,East,Earbuds,Electronics,14,65,63
+1068,09-03-2026,West,Smartwatch,Electronics,5,180,178
+1069,10-03-2026,South,Drone,Electronics,2,850,848
+1070,11-03-2026,North,Shampoo,Personal Care,20,9,7
+1071,12-03-2026,East,Soap,Personal Care,35,4,2
+1072,13-03-2026,West,Toothpaste,Personal Care,28,6,4
+1073,14-03-2026,South,Towel,Home,15,18,16
+1074,15-03-2026,North,Curtain,Home,6,65,63
+1075,16-03-2026,East,Mattress,Furniture,2,500,498
+1076,17-03-2026,West,Drill,Tools,5,95,93
+1077,18-03-2026,South,Hammer,Tools,14,20,18
+1078,19-03-2026,North,Wrench,Tools,10,18,16
+1079,20-03-2026,East,Watch,Accessories,14,90,88
+1080,21-03-2026,West,Bag,Accessories,11,45,43
+1081,22-03-2026,South,Shoes,Fashion,18,70,68
+1082,23-03-2026,North,Shirt,Fashion,25,30,28
+1083,24-03-2026,East,Jeans,Fashion,20,50,48
+1084,25-03-2026,West,Jacket,Fashion,9,95,93
+1085,26-03-2026,South,Lamp,Furniture,13,40,38
+1086,27-03-2026,North,Carpet,Furniture,5,110,108
+1087,28-03-2026,East,Router,Electronics,7,60,58
+1088,29-03-2026,West,Phone,Electronics,10,500,498
+1089,30-03-2026,South,Tablet,Electronics,7,320,318
+1090,31-03-2026,North,Chair,Furniture,12,85,83
+1091,01-04-2026,East,Desk,Furniture,4,150,148
+1092,02-04-2026,West,Pen,Stationery,50,2,1
+1093,03-04-2026,South,Notebook,Stationery,30,5,3
+1094,04-04-2026,North,Monitor,Electronics,6,220,218
+1095,05-04-2026,East,Keyboard,Electronics,15,35,33
+1096,06-04-2026,West,Chair,Furniture,12,85,83
+1097,07-04-2026,South,Desk,Furniture,4,150,148
+1098,08-04-2026,North,Pen,Stationery,50,2,1
+1099,09-04-2026,East,Monitor,Electronics,6,220,218
